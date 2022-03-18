@@ -3,12 +3,40 @@
       {
          "name":"Cognizant Worldwide",
          "startDate":"",
-         "endDate":""
+         "endDate":"",
+         "countries":[
+            {
+               "name":"United Kingdom",
+               "countryCode":"UK"
+            },
+            {
+               "name":"Hong Kong",
+               "countryCode":"HK"
+            },
+            {
+               "name":"United States",
+               "countryCode":"USA"
+            },
+            {
+               "name":"India",
+               "countryCode":"IN"
+            }
+         ]
       },
       {
          "name":"Wipro",
          "startDate":"",
-         "endDate":""
+         "endDate":"",
+         "countries":[
+            {
+               "name":"Bangladesh",
+               "countryCode":"USA"
+            },
+            {
+               "name":"India",
+               "countryCode":"IN"
+            }
+         ]
       }
    ]
 }
