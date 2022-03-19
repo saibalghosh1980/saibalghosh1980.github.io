@@ -39,6 +39,22 @@
                "countryCode":"IN"
             }
          ]
+      },
+      {
+         "name":"Lexmark",
+         "startDate":"2011",
+         "endDate":"2013",
+		 "imageURL":"https://raw.githubusercontent.com/saibalghosh1980/saibalghosh1980.github.io/main/data/LEX.png",
+         "countries":[
+            {
+               "name":"United States",
+               "countryCode":"USA"
+            },
+            {
+               "name":"India",
+               "countryCode":"IN"
+            }
+         ]
       }
    ]
 }
