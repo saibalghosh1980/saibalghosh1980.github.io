@@ -6,6 +6,7 @@
          "startDate":"2014",
          "endDate":"2022",
 		 "imageURL":"https://raw.githubusercontent.com/saibalghosh1980/saibalghosh1980.github.io/main/data/CTS.png",
+		 "desination":"Principal Architect",
          "countries":[
             {
                "name":"United Kingdom",
@@ -31,6 +32,7 @@
          "startDate":"2013",
          "endDate":"2014",
 		 "imageURL":"https://raw.githubusercontent.com/saibalghosh1980/saibalghosh1980.github.io/main/data/WIPRO.png",
+		 "desination":"Module Lead",
          "countries":[
             {
                "name":"Bangladesh",
@@ -48,6 +50,7 @@
          "startDate":"2011",
          "endDate":"2013",
 		 "imageURL":"https://raw.githubusercontent.com/saibalghosh1980/saibalghosh1980.github.io/main/data/LEX.png",
+		 "desination":"Engineering Manager",
          "countries":[
             {
                "name":"United States",
@@ -65,6 +68,7 @@
          "startDate":"2006",
          "endDate":"2011",
 		 "imageURL":"https://raw.githubusercontent.com/saibalghosh1980/saibalghosh1980.github.io/main/data/PWC.png",
+		 "desination":"Senior Consultant",
          "countries":[
             {
                "name":"United States",
@@ -82,6 +86,7 @@
          "startDate":"2004",
          "endDate":"2006",
 		 "imageURL":"https://raw.githubusercontent.com/saibalghosh1980/saibalghosh1980.github.io/main/data/INFY.png",
+		 "desination":"Software Engineer",
          "countries":[
             {
                "name":"Sri Lanka",
