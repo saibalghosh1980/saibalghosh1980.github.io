@@ -1,6 +1,7 @@
 {
    "workSummary":[
-      {
+      {  
+		 "id": "5",
          "name":"Cognizant Worldwide",
          "startDate":"2014",
          "endDate":"2022",
@@ -25,7 +26,8 @@
          ]
       },
       {
-         "name":"Wipro",
+         "id": "4",
+		 "name":"Wipro",
          "startDate":"2013",
          "endDate":"2014",
 		 "imageURL":"https://raw.githubusercontent.com/saibalghosh1980/saibalghosh1980.github.io/main/data/WIPRO.png",
@@ -41,7 +43,8 @@
          ]
       },
       {
-         "name":"Lexmark",
+         "id": "3",
+		 "name":"Lexmark",
          "startDate":"2011",
          "endDate":"2013",
 		 "imageURL":"https://raw.githubusercontent.com/saibalghosh1980/saibalghosh1980.github.io/main/data/LEX.png",
@@ -57,7 +60,8 @@
          ]
       },
       {
-         "name":"PwC",
+         "id": "2",
+		 "name":"PwC",
          "startDate":"2006",
          "endDate":"2011",
 		 "imageURL":"https://raw.githubusercontent.com/saibalghosh1980/saibalghosh1980.github.io/main/data/PWC.png",
@@ -73,7 +77,8 @@
          ]
       },
       {
-         "name":"Infosys",
+         "id": "1",
+		 "name":"Infosys",
          "startDate":"2004",
          "endDate":"2006",
 		 "imageURL":"https://raw.githubusercontent.com/saibalghosh1980/saibalghosh1980.github.io/main/data/INFY.png",
