@@ -55,6 +55,22 @@
                "countryCode":"IN"
             }
          ]
+      },
+      {
+         "name":"PwC",
+         "startDate":"2006",
+         "endDate":"2011",
+		 "imageURL":"https://raw.githubusercontent.com/saibalghosh1980/saibalghosh1980.github.io/main/data/PWC.png",
+         "countries":[
+            {
+               "name":"United States",
+               "countryCode":"USA"
+            },
+            {
+               "name":"India",
+               "countryCode":"IN"
+            }
+         ]
       }
    ]
 }
