@@ -4,6 +4,7 @@
          "name":"Cognizant Worldwide",
          "startDate":"2014",
          "endDate":"2022",
+		 "imageURL":"https://raw.githubusercontent.com/saibalghosh1980/saibalghosh1980.github.io/main/data/CTS.png",
          "countries":[
             {
                "name":"United Kingdom",
