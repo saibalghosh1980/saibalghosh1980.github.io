@@ -33,7 +33,25 @@
                "countryCode":"DEN"
             }
 			
-         ]
+         ],
+		 "clients":[
+			 {
+				 "name" : "Oxford Univerity Press",
+				 "code" : "OUP"
+			 },
+			 {
+				 "name" : "AxA Insurance HK",
+				 "code" : "AXA"
+			 },
+			 {
+				 "name" : "Community Fibre",
+				 "code" : "COMFIB"
+			 },
+			 {
+				 "name" : "Ford Motors",
+				 "code" : "FORDMOTO"
+			 }
+		 ]
       },
       {
          "id": "4",
@@ -51,7 +69,17 @@
                "name":"India",
                "countryCode":"IN"
             }
-         ]
+         ],
+		 "clients":[
+			 {
+				 "name" : "Uninor",
+				 "code" : "UNINOR"
+			 },
+			 {
+				 "name" : "Grameen Phone",
+				 "code" : "GRAMPHONE"
+			 }
+		 ]
       },
       {
          "id": "3",
@@ -69,7 +97,13 @@
                "name":"India",
                "countryCode":"IN"
             }
-         ]
+         ],
+		 "clients":[
+			 {
+				 "name" : "Lexmark",
+				 "code" : "LEX"
+			 }
+		 ]
       },
       {
          "id": "2",
@@ -91,7 +125,13 @@
                "name":"Australia",
                "countryCode":"AU"
             }
-         ]
+         ],
+		 "clients":[
+			 {
+				 "name" : "PwC",
+				 "code" : "PWC"
+			 }
+		 ]
       },
       {
          "id": "1",
@@ -109,7 +149,17 @@
                "name":"India",
                "countryCode":"IN"
             }
-         ]
+         ],
+		 "clients":[
+			 {
+				 "name" : "Bank of Baroda",
+				 "code" : "BOB"
+			 },
+			 {
+				 "name" : "Sampath Bank",
+				 "code" : "SMPB"
+			 }
+		 ]
       }
    ]
 }
