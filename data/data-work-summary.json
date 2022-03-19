@@ -71,6 +71,22 @@
                "countryCode":"IN"
             }
          ]
+      },
+      {
+         "name":"Infosys",
+         "startDate":"2004",
+         "endDate":"2006",
+		 "imageURL":"https://raw.githubusercontent.com/saibalghosh1980/saibalghosh1980.github.io/main/data/INFY.png",
+         "countries":[
+            {
+               "name":"Sri Lanka",
+               "countryCode":"SRL"
+            },
+            {
+               "name":"India",
+               "countryCode":"IN"
+            }
+         ]
       }
    ]
 }
