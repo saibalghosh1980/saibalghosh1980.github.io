@@ -10,6 +10,10 @@
             {
                "name":"AWS Certified DevOps Engineer - Professional",
                "id":"AWSDEVOPS"
+            },
+            {
+               "name":"AWS Certified Solutions Architect – Associate",
+               "id":"SAA-C02"
             }
          ]
       },
