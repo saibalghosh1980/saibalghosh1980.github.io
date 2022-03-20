@@ -1,0 +1,14 @@
+{
+   "certSummary":[
+      {
+		  "name": "Solutions Architect Professional",
+		  "id":"SAP-C01",
+		  "provider":"AwS"
+      },
+      {
+		  "name": "Cloud Architect",
+		  "id":"GCPCA",
+		  "provider":"GCP"
+      }
+   ]
+}
