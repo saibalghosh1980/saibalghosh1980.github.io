@@ -27,6 +27,15 @@
          ]
       },
       {
+         "provider":"AZURE",
+         "certifications":[
+            {
+               "name":"Azure Architect Expert",
+               "id":"AZUREARCHITECT"
+            }
+         ]
+      },
+      {
          "provider":"OPENGROUP",
          "certifications":[
             {
