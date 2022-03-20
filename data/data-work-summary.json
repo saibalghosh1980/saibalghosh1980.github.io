@@ -100,7 +100,7 @@
          ],
 		 "clients":[
 			 {
-				 "name" : "Lexmark",
+				 "name" : "Lexmark (Intenal)",
 				 "code" : "LEX"
 			 }
 		 ]
@@ -128,8 +128,12 @@
          ],
 		 "clients":[
 			 {
-				 "name" : "PwC",
+				 "name" : "PwC Center of Advance Research",
 				 "code" : "PWC"
+			 },
+			 {
+				 "name" : "Arlington Energy Society",
+				 "code" : "AES"
 			 }
 		 ]
       },
