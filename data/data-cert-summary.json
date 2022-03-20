@@ -49,6 +49,16 @@
          ]
       },
       {
+         "provider":"MULE",
+		 "provideName":"Mulesoft",
+         "certifications":[
+            {
+               "name":"IMulesoft Certified Developer",
+               "id":"MCD"
+            }
+         ]
+      },
+      {
          "provider":"IBM",
 		 "provideName":"IBM",
          "certifications":[
