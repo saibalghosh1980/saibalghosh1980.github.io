@@ -2,6 +2,7 @@
    "certSummary":[
       {
          "provider":"AwS",
+		 "provideName":"Amazon Web Service",
          "certifications":[
             {
                "name":"Solutions Architect Professional",
@@ -19,6 +20,7 @@
       },
       {
          "provider":"GCP",
+		 "provideName":"Google",
          "certifications":[
             {
                "name":"Cloud Architect",
@@ -28,6 +30,7 @@
       },
       {
          "provider":"AZURE",
+		 "provideName":"Microsoft",
          "certifications":[
             {
                "name":"Azure Architect Expert",
@@ -37,6 +40,7 @@
       },
       {
          "provider":"OPENGROUP",
+		 "provideName":"The Open Group",
          "certifications":[
             {
                "name":"TOGAF",
