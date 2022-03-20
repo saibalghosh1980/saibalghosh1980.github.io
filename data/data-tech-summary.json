@@ -1,0 +1,38 @@
+{
+	"techSummary":[
+		{
+			"catagory" : "Cloud",
+			"technologies" : [
+				{
+					"name": "AwS",
+					"code": "AWS",
+					"proficiency": "PRO"
+					"yoe":"7"
+				},
+				{
+					"name": "Azure",
+					"code": "AZ",
+					"proficiency": "PRO"
+					"yoe":"5"
+				}
+			]
+		},
+		{
+			"catagory" : "Languages",
+			"technologies" : [
+				{
+					"name": "Java",
+					"code": "JAVA",
+					"proficiency": "PRO"
+					"yoe":"17"
+				},
+				{
+					"name": ".Net (C#)",
+					"code": "CHASH",
+					"proficiency": "INT"
+					"yoe":"4"
+				}
+			]
+		}
+	]
+}
