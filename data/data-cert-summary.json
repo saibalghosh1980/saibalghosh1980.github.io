@@ -25,6 +25,15 @@
                "id":"GCPCA"
             }
          ]
+      },
+      {
+         "provider":"OPENGROUP",
+         "certifications":[
+            {
+               "name":"TOGAF",
+               "id":"TOGAF"
+            }
+         ]
       }
    ]
 }
