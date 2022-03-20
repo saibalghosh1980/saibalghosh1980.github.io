@@ -6,6 +6,10 @@
             {
                "name":"Solutions Architect Professional",
                "id":"SAP-C01"
+            },
+            {
+               "name":"AWS Certified DevOps Engineer - Professional",
+               "id":"AWSDEVOPS"
             }
          ]
       },
