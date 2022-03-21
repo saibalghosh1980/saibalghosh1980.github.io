@@ -23,8 +23,10 @@
    ],
    "recognition":[
 	   {
-		   "description":"Best innovator award by Cognizant.",
-		   "description":"Delivery excellence from OUP."
+		   "description":"Best innovator award by Cognizant."
+	   },
+	   {
+	   		"description":"Delivery excellence from OUP."
 	   }
    ],
    "start":"2018",
