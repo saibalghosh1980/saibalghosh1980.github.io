@@ -10,6 +10,15 @@
       },
       {
          "description":"Develop the fully automated DevOps pipeline (Jenkins,Argo cd, Terraform, Ansible) to cater service deployment and monitoring (CloudWatch and New Relic)."
+      },
+      {
+         "description":"Work with multiple project teams, business stakeholders and solution architects to finalize the requirements and ensure the design is fit for purpose and aligned to the target platform."
+      },
+      {
+         "description":"Leading the design and delivery governance for the multiple projects undertaken by client’s cloud-native SDC."
+      },
+      {
+         "description":"Conducts research and understand cloud computing industry trends with regards to technology and adoption. Feeds the information regularly to client architect board to keep them up to dated regarding. Cloud native trends."
       }
    ],
    "start":"2018",
