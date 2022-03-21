@@ -18,6 +18,23 @@
          ]
       },
       {
+         "catagory":"Serverlss",
+         "technologies":[
+            {
+               "name":"Lambda",
+               "code":"LAMBD",
+               "proficiency":"PRO",
+               "yoe":"5"
+            },
+            {
+               "name":"Azure Functions",
+               "code":"AZFUNC",
+               "proficiency":"INT",
+               "yoe":"3.5"
+            }
+         ]
+      },
+      {
          "catagory":"Languages",
          "technologies":[
             {
