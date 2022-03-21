@@ -166,6 +166,41 @@
                "yoe":"2"
             }
          ]
+      },
+      {
+         "catagory":"DevOps",
+         "technologies":[
+            {
+               "name":"Jenkins",
+               "code":"JENKINS",
+               "proficiency":"PRO",
+               "yoe":"8"
+            },
+            {
+               "name":"AwS- CodeBuild,CodeDeploy",
+               "code":"AWSDEVOPS",
+               "proficiency":"INT",
+               "yoe":"4"
+            },
+            {
+               "name":"Terraform",
+               "code":"TERRAFORM",
+               "proficiency":"INT",
+               "yoe":"4"
+            },
+            {
+               "name":"Ansible",
+               "code":"ANSIBLE",
+               "proficiency":"INT",
+               "yoe":"4"
+            },
+            {
+               "name":"AwS- CloudFormation",
+               "code":"AWS-CF",
+               "proficiency":"INT",
+               "yoe":"3"
+            }
+         ]
       }
    ]
 }
