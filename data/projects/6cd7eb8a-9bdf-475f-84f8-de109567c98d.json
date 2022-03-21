@@ -1,0 +1,17 @@
+{
+   "name":"",
+   "summary":"Oxford University Press is a department of the University of Oxford. The client aims to build its unified business service and integration platform on top of AwS using microservices principles. This target platform will bring down OUP’s operation cost by 15 million per year. Saibal is working as a senior architect of the client’s cloud-native software delivery centre.",
+   "contributions":[
+      {
+         "description":"Design (using domain driven design) and develop the microservices-based cloud-native architecture for the OUP Target CN Platform on AwS and Azure (using Spring BOOT, AWS, Kubernetes, API Gateway, Kafka, SQS, SNS, Kinesis etc)."
+      },
+      {
+         "description":"Creating a scalable, highly available cloud native service platform utilizing various AwS services which is powering 700+ microservices for OUP."
+      },
+      {
+         "description":"Develop the fully automated DevOps pipeline (Jenkins,Argo cd, Terraform, Ansible) to cater service deployment and monitoring (CloudWatch and New Relic)."
+      }
+   ],
+   "start":"2018",
+   "end":"2022"
+}
