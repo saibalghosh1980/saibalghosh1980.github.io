@@ -108,6 +108,47 @@
                "yoe":"2"
             }
          ]
+      },
+      {
+         "catagory":"Messaging",
+         "technologies":[
+            {
+               "name":"Kafka",
+               "code":"KAFKA",
+               "proficiency":"PRO",
+               "yoe":"5"
+            },
+            {
+               "name":"RabbitMQ",
+               "code":"RABBIT",
+               "proficiency":"INT",
+               "yoe":"4"
+            },
+            {
+               "name":"ActiveMQ",
+               "code":"ACTIVEMQ",
+               "proficiency":"PRO",
+               "yoe":"7"
+            },
+            {
+               "name":"SQS/SNS",
+               "code":"AWS-SQS-SNS",
+               "proficiency":"INT",
+               "yoe":"4"
+            },
+            {
+               "name":"Kinesis",
+               "code":"KINESIS",
+               "proficiency":"BEG",
+               "yoe":"2"
+            },
+            {
+               "name":"Azure Service Bus",
+               "code":"AZURESERVBUS",
+               "proficiency":"BEG",
+               "yoe":"2"
+            }
+         ]
       }
    ]
 }
