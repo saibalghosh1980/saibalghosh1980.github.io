@@ -62,6 +62,29 @@
                "yoe":"5"
             }
          ]
+      },
+      {
+         "catagory":"Middleware",
+         "technologies":[
+            {
+               "name":"Mulesoft",
+               "code":"MULE",
+               "proficiency":"PRO",
+               "yoe":"5"
+            },
+            {
+               "name":"Apache Camel",
+               "code":"CAMEL",
+               "proficiency":"PRO",
+               "yoe":"6"
+            },
+            {
+               "name":"Dell Boomi",
+               "code":"BOOMI",
+               "proficiency":"BEG",
+               "yoe":"2"
+            }
+         ]
       }
    ]
 }
