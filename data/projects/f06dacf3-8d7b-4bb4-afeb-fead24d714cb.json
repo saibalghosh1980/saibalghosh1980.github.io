@@ -1,0 +1,20 @@
+{
+   "name":"",
+   "summary":"FDC A/S supplies IT solutions to the insurance and pension sector. Saibal was working with them on a project envisioned to re-vamp and modernize their diverse service line offerings using API first approach and make them equipped for digital front ends.",
+   "contributions":[
+      {
+         "description":"Design and lead the development effort for building the service and API platform for FDC."
+      },
+      {
+         "description":"Technical due diligence, solution feasibility assessment and creating the technology landscape on top AwS and PCF which caters the requirements of the client’s target platform."
+      },
+      {
+         "description":"Worked with client business architects and participated in domain-driven design workshops to identify the domain services for being service/API candidate."
+      },
+      {
+         "description":"Set up PCF PaaS competency within Cognizant IPM team which was required for the project."
+      }
+   ],
+   "start":"2018",
+   "end":"2022"
+}
