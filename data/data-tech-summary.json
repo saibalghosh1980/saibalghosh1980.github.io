@@ -35,6 +35,29 @@
          ]
       },
       {
+         "catagory":"PaaS",
+         "technologies":[
+            {
+               "name":"PCF",
+               "code":"PCF",
+               "proficiency":"INT",
+               "yoe":"3.5"
+            },
+            {
+               "name":"AwS- Elastic Beanstalk",
+               "code":"EBS",
+               "proficiency":"BEG",
+               "yoe":"2"
+            },
+            {
+               "name":"Azure App,
+               "code":"AZUREAPP",
+               "proficiency":"INT",
+               "yoe":"3"
+            }
+         ]
+      },
+      {
          "catagory":"Languages",
          "technologies":[
             {
