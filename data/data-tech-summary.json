@@ -50,7 +50,7 @@
                "yoe":"2"
             },
             {
-               "name":"Azure App,
+               "name":"Azure App",
                "code":"AZUREAPP",
                "proficiency":"INT",
                "yoe":"3"
@@ -198,6 +198,12 @@
                "code":"JENKINS",
                "proficiency":"PRO",
                "yoe":"8"
+            },
+            {
+               "name":"Argo CD",
+               "code":"ARGO",
+               "proficiency":"INT",
+               "yoe":"3"
             },
             {
                "name":"AwS- CodeBuild,CodeDeploy",
