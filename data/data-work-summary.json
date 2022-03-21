@@ -60,6 +60,10 @@
 			 {
 				 "name":"FDC Platform",
 				 "id":"f06dacf3-8d7b-4bb4-afeb-fead24d714cb"
+			 },
+			 {
+				 "name":"AXA Asia DATA API Platform",
+				 "id":"489d7819-e277-4bb2-8c08-a7f279eafbdb"
 			 }
 		 ]
       },

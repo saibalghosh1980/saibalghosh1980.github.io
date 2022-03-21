@@ -1,0 +1,25 @@
+{
+   "name":"",
+   "summary":"AXA is a major insurance provider in Southeast Asia. This project was aimed to unify and serve business and data related requirements of all the new projects of the region through a centralized service/api repository.",
+   "contributions":[
+      {
+         "description":"Liaison with client solution, business, and data architect to identify and finalize the candidate services for the repository"
+      },
+      {
+         "description":"Design the data and api platform on top of hybrid cloud architecture (AwS and PCF) using microservices principles."
+      },
+      {
+         "description":"Responsible for the technical delivery and single point of contact for design and technical issues from Cognizant end."
+      },
+      {
+         "description":"Part of client’s group architecture review board (GARB) and responsible for service identification, prioritization, and design, which will be delivered through the project."
+      }
+   ],
+   "recognition":[
+	   {
+		   "description":"Spotlight award for the quarter form Cognizant."
+	   }
+   ],
+   "start":"2016",
+   "end":"2016"
+}
