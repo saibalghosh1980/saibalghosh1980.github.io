@@ -21,6 +21,12 @@
          "description":"Conducts research and understand cloud computing industry trends with regards to technology and adoption. Feeds the information regularly to client architect board to keep them up to dated regarding. Cloud native trends."
       }
    ],
+   "recognition":[
+	   {
+		   "description":"Best innovator award by Cognizant.",
+		   "description":"Delivery excellence from OUP."
+	   }
+   ]
    "start":"2018",
    "end":"2022"
 }
