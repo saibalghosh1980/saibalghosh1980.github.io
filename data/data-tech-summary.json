@@ -85,6 +85,29 @@
                "yoe":"2"
             }
          ]
+      },
+      {
+         "catagory":"API Management",
+         "technologies":[
+            {
+               "name":"Azure",
+               "code":"AZAPI",
+               "proficiency":"PRO",
+               "yoe":"5"
+            },
+            {
+               "name":"AwS API G/W",
+               "code":"AWSAPI",
+               "proficiency":"INT",
+               "yoe":"4"
+            },
+            {
+               "name":"APIGEE",
+               "code":"APIGEE",
+               "proficiency":"BEG",
+               "yoe":"2"
+            }
+         ]
       }
    ]
 }
