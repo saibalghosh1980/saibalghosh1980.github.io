@@ -31,6 +31,35 @@
                "code":"CHASH",
                "proficiency":"INT",
                "yoe":"4"
+            },
+            {
+               "name":"NodeJs",
+               "code":"NODE",
+               "proficiency":"INT",
+               "yoe":"4"
+            },
+            {
+               "name":"GoLang",
+               "code":"GO",
+               "proficiency":"BEG",
+               "yoe":"2"
+            }
+         ]
+      },
+      {
+         "catagory":"Containerization",
+         "technologies":[
+            {
+               "name":"Docker",
+               "code":"DOCKER",
+               "proficiency":"PRO",
+               "yoe":"7"
+            },
+            {
+               "name":"Kubernetes",
+               "code":"K8",
+               "proficiency":"PRO",
+               "yoe":"5"
             }
          ]
       }
