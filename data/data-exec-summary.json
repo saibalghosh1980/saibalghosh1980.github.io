@@ -31,5 +31,17 @@
       {
          "description":"Excellent knowledge and hands-on expertise of Java (8-11) and Spring Boot and Microservices Architecture patterns "
       }
+   ],
+   "socialMedia":[
+	   {
+		   "media":"Facebook",
+		   "id":"FB",
+		   "url":"https://www.facebook.com/saibal.k.ghosh/"
+	   },
+	   {
+		   "media":"LinkedIn",
+		   "id":"LKD",
+		   "url":"https://www.linkedin.com/in/saibalkumarghosh/"
+	   }
    ]
 }
