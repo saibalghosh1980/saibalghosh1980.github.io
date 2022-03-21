@@ -51,6 +51,12 @@
 				 "name" : "Ford Motors",
 				 "code" : "FORDMOTO"
 			 }
+		 ],
+		 "projects":[
+			 {
+				 "name":"OUP Managed Service",
+				 "id":"6cd7eb8a-9bdf-475f-84f8-de109567c98d"
+			 }
 		 ]
       },
       {
