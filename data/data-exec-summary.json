@@ -1,3 +1,26 @@
 {
-   "execsummary":"Saibal is an innovative and accomplished cloud-native solution architect with a java full stack developer background. He has the zeal of learning vanguard technologies and applying them to improve the design and development of complex software development projects. His areas of expertise are Cloud-Native solutions on Public, PaaS, and Hybrid Cloud, legacy system modernization, enterprise integration, API management, Microservices, DevOps, and SOA-based solutions. He is currently leading the cloud-native competency of Cognizant, Central Europe, and engaged in developing a large-scale AWS/Azure-based enterprise service platform for Oxford University Press. In his illustrious career spanning over 17+ years, he has worked with clients across the globe (US, Europe, Australia, Southeast Asia, and India) in the banking,insurance, retail, and coms-media domain"
+   "execsummary":"Saibal is an innovative and accomplished cloud-native solution architect with a java full stack developer background. He has the zeal of learning vanguard technologies and applying them to improve the design and development of complex software development projects. His areas of expertise are Cloud-Native solutions on Public, PaaS, and Hybrid Cloud, legacy system modernization, enterprise integration, API management, Microservices, DevOps, and SOA-based solutions. He is currently leading the cloud-native competency of Cognizant, Central Europe, and engaged in developing a large-scale AWS/Azure-based enterprise service platform for Oxford University Press. In his illustrious career spanning over 17+ years, he has worked with clients across the globe (US, Europe, Australia, Southeast Asia, and India) in the banking,insurance, retail, and coms-media domain",
+   "profesionalExpertise":[
+      {
+         "description":"Excellent knowledge of AWS Architecture with an deep understanding of core AWS Services such as EC2, S3,ALB,EKS Dynamo DB, Elastic cache, CloudWatch, Beanstalk etc. Designing HA Architecture, Costing and Billing, AWS Security including implementation Web Identity Federation using STS."
+      },
+      {
+         "description":"Proficient in highly scalable and distributed cloud native application design and development on top of multiple cloud platform (AwS, Azure, GCP) and containerized environments (Docker, Kubernetes)."
+      },
+      {
+         "description":"Expertise in API Management solution using AwS, Azure, WSO2 and Kong API GW."
+      },
+      {
+         "description":"Keen practitioner of DevOps methodologies and tools (using Jenkins, ELK, Ansible, Kubernetes, Git)."
+      },
+      {
+         "description":"Expert in developing enterprise integration solution on multiple platforms (MuleSoft, Camel)"
+      },
+      {
+         "description":"Experienced with EA methodologies like TOGAF and producing EA Artefacts to represent AS-IS and TO-BE Architectural state."
+      },
+      {
+         "description":"Excellent knowledge and hands-on expertise of Java (8-11) and Spring Boot and Microservices Architecture patterns "
+      }
+   ]
 }
